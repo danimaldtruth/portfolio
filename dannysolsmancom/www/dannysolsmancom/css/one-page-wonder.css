@@ -1,0 +1,210 @@
+/*
+ * Start Bootstrap - One Page Wonder (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: red;
+}
+
+.header-image {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.headline {
+    padding: 120px 0;
+    background-color: red;
+}
+
+.headline h1 {
+    font-size: 130px;
+
+}
+
+.headline h2 {
+    font-size: 77px;
+
+}
+
+.featurette-divider {
+    margin: 80px 0;
+    background-color: red;
+}
+
+.featurette {
+    overflow: hidden;
+    background-color: red;
+}
+
+.featurette-image.pull-left {
+    margin-right: 40px;
+    background-color: red;
+}
+
+.featurette-image.pull-right {
+    margin-left: 40px;
+    background-color: red;
+}
+
+.featurette-heading {
+    font-size: 50px;
+    background-color: red;
+}
+
+footer {
+    margin: 50px 0;
+    background-color: red;
+}
+
+@media(max-width:1200px) {
+    .headline h1 {
+        font-size: 140px;
+        background-color: red;
+    }
+
+    .headline h2 {
+        font-size: 63px;
+        background-color: red;
+    }
+
+    .featurette-divider {
+        margin: 50px 0;
+        background-color: red;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 20px;
+        background-color: red;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 20px;
+        background-color: red;
+    }
+
+    .featurette-heading {
+        font-size: 35px;
+        background-color: red;
+    }
+}
+
+@media(max-width:991px) {
+    .headline h1 {
+        font-size: 105px;
+        background-color: red;
+    }
+
+    .headline h2 {
+        font-size: 50px;
+        background-color: red;
+    }
+
+    .featurette-divider {
+        margin: 40px 0;
+        background-color: red;
+    }
+
+    .featurette-image {
+        max-width: 50%;
+        background-color: red;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 10px;
+        background-color: red;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 10px;
+        background-color: red;
+    }
+
+    .featurette-heading {
+        font-size: 30px;
+        background-color: red;
+    }
+}
+
+@media(max-width:768px) {
+    .container {
+        margin: 0 15px;
+        background-color: red;
+    }
+
+    .featurette-divider {
+        margin: 40px 0;
+        background-color: red;
+    }
+
+    .featurette-heading {
+        font-size: 25px;
+        background-color: red;
+    }
+}
+
+@media(max-width:668px) {
+    .headline h1 {
+        font-size: 70px;
+        background-color: red;
+    }
+
+    .headline h2 {
+        font-size: 32px;
+        background-color: red;
+    }
+
+    .featurette-divider {
+        margin: 30px 0;
+        background-color: red;
+    }
+}
+
+@media(max-width:640px) {
+    .headline {
+        padding: 75px 0 25px 0;
+        background-color: red;
+    }
+
+    .headline h1 {
+        font-size: 60px;
+        background-color: red;
+    }
+
+    .headline h2 {
+        font-size: 30px;
+        background-color: red;
+    }
+}
+
+@media(max-width:375px) {
+    .featurette-divider {
+        margin: 10px 0;
+        background-color: red;
+    }
+
+    .featurette-image {
+        max-width: 100%;
+        background-color: red;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 0;
+        margin-bottom: 10px;
+        background-color: red;
+    }
+
+    .featurette-image.pull-right {
+        margin-bottom: 10px;
+        margin-left: 0;
+        background-color: red;
+    }
+}

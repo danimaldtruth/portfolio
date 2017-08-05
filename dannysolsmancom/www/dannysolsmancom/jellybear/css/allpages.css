@@ -1,0 +1,21 @@
+body {
+    background-image: url("../img/bearbackground.png");
+}
+
+#wrapper {
+    width: 900px;
+    margin: 1px auto;
+}
+h1 { font-family: 'Amatic SC', cursive; font-size: 130px;font-weight: 800;
+		padding: 2px 2px 2px 5px; margin: 5px;
+	}
+h2 { font-family: 'Amatic SC', cursive; font-size: 50px;font-weight: 800; }
+h3 { font-family: 'Amatic SC', cursive; font-size: 24px;font-weight: 800; }
+h4 { font-family: 'Amatic SC', cursive; font-size: 90px;font-weight: 800;
+		padding: 2px 2px 2px 5px; margin: 5px; }
+a:link {
+color: #F5EB46;
+}
+a:visited {
+color: #EBE13C;
+}
